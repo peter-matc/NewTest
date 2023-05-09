@@ -14,5 +14,7 @@ public class Vector01 {
         linkedList01.add("15");
         linkedList01.add(20);
         linkedList01.add(32);
+        Vector<Object> objects = new Vector<>();
+
     }
 }
